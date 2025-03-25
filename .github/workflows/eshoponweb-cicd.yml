@@ -4,6 +4,7 @@ name: eShopOnWeb Build and Test
 on: workflow_dispatch
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
+
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   SUBSCRIPTION-ID: 0e230f6c-8102-43c7-a806-dae4f81ba469
